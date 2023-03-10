@@ -17,4 +17,4 @@ The following technologies were used to create the website:
 **HTML5**: For structuring the content of the website.
 **CSS3**: For styling the layout and design of the website.
 **JavaScript**: For adding interactivity and dynamic elements to the website.
-**Node.js**: For building and deploying the website on a web server.
+**Node.js**: For building and deploying the website on a web server
